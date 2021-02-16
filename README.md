@@ -1,2 +1,5 @@
 # cuicui22.io
-remove
+
+# 新电脑的测试
+
+- git上传到github
