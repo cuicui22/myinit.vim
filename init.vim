@@ -34,7 +34,7 @@ call plug#begin('~/.local/share/nvim/site/plugged')
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'arcticicestudio/nord-vim'
-Plug 'theniceboy/nvim-deus'
+Plug 'ajmwagar/vim-deus'
 
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
@@ -49,7 +49,6 @@ Plug 'gcmt/wildfire.vim'
 Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
 Plug 'dhruvasagar/vim-table-mode'
 
-Plug 'numirias/semshi', { 'do': ':UpdateRemotePlugins' }
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 inoremap <silent><expr> <TAB>
