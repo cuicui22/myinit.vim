@@ -9,3 +9,6 @@
 1. lsp-config及nvim-cmp需要下载语言服务器，目前有vimls[vim的]，clangd[c和cpp的]<br>
 [语言服务下载查询](https://github.com/neovim/nvim-lspconfig/blob/master/CONFIG.md)
 2. 需要nodejs，python支持
+3. packer下载<br>
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\
+ ~/.local/share/nvim/site/pack/packer/start/packer.nvim
