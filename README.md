@@ -1,4 +1,6 @@
 # MYVIM
+![image](https://user-images.githubusercontent.com/73978024/139647927-32720f8e-7a88-494e-b716-69c07f5db977.png)
+
 ### 使用vimscripts及lua配置nvim，插件管理器为packer，补全为nvim-lsp，lua文件夹为插件管理器，after文件夹为私有配置。
 
 - init.vim 载入所有全配置
